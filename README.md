@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **React.js, Node.js, Express, and MongoDB**
 
-- 📫 How to reach me **sy883619@gmail.com**
+- 📫 How to reach me **sathishkurre03@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
