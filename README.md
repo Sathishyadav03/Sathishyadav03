@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sathish</h1>
-<h3 align="center">A passionate web developer from India</h3>
+<h3 align="center">I’m an AIML student who enjoys building practical tech solutions that solve real-world problems.
+I’m especially interested in Artificial Intelligence, Machine Learning, and full-stack development.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sathishyadav03&label=Profile%20views&color=0e75b6&style=flat" alt="sathishyadav03" /> </p>
 
