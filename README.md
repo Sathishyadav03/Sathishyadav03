@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sathish Yadav</h1>
+<h1 align="center">Hi 👋, I'm Sathish</h1>
 
 <h3 align="center">
 AI & Machine Learning Enthusiast | Full-Stack Developer | Building Real-World Tech Solutions
